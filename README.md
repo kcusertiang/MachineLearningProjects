@@ -19,4 +19,4 @@ Timeseries data consists of at least two things:
 3 - update
 4 - adding Reinforcement Learning 
 
-
+#end of text
